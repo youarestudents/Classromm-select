@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/calss/index",
+    "pages/yuyue/index",
+    "pages/myindex/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "backgroundColor": "#faffee",
+    "color": "gray",
+    "selectedColor": "#FFA500",
+    "fontSize": "15px",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/calss/index",
+        "iconPath": "static/首页.png",
+        "selectedIconPath": "static/首页 (1).png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/myindex/index",
+        "iconPath": "static/我的.png",
+        "selectedIconPath": "static/我的 (2).png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

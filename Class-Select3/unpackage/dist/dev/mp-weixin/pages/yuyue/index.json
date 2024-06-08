@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "请选择",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "select-lay": "/uni_modules/select-lay/components/select-lay/select-lay"
+  }
+}
